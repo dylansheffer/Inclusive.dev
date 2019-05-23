@@ -1,0 +1,5 @@
+@import 'mixins';
+
+.avatar {
+  @include circle();
+}
